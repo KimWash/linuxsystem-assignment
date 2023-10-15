@@ -5,3 +5,5 @@ Linux System Class
 - https://github.com/KimWash/linuxsystem-assignment 를 fork 했습니다.
 ----------
 - develop 브랜치를 생성했습니다. 
+----------
+- client에서 pull 했습니다.
